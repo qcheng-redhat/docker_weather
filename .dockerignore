@@ -1,0 +1,9 @@
+__pycache__/
+.git/
+*.pyc
+*.pyo
+weather.html
+CLAUDE.md
+Dockerfile
+.dockerignore
+docker-compose.yml

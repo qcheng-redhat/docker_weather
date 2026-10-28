@@ -1,0 +1,4 @@
+services:
+  weather:
+    build: .
+    image: my-weather:latest
